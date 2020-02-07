@@ -13,6 +13,9 @@ https://www.thethingsnetwork.org/docs/lorawan/security.html
 
 ## The ioactive study
 
+LoRaWAN Networks Susceptible to Hacking: Common Cyber Security Problems, How to Detect and Prevent Them January 2020
+Cesar Cerrudo, CTO, IOActive, Esteban Martinez Fayo, Director of Database Security, IOActive, Matias Sequeira, Security Researcher
+
 https://act-on.ioactive.com/acton/attachment/34793/f-87b45f5f-f181-44fc-82a8-8e53c501dc4e/1/-/-/-/-/LoRaWAN%20Networks%20Susceptible%20to%20Hacking.pdf
 
 Things Conf 2020

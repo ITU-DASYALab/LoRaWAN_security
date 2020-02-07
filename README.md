@@ -28,13 +28,13 @@ https://www.zdnet.com/article/lorawan-networks-are-spreading-but-security-resear
 https://businessinsights.bitdefender.com/the-protocol-thats-putting-enterprise-iot-at-extreme-risk
 
 
-## power depletion attacks
+## Power depletion attacks
 
 Energy Attack in LoRaWAN: Experimental Validation
 https://dl.acm.org/doi/10.1145/3339252.3340525
 https://dl.acm.org/doi/proceedings/10.1145/3339252
 
-## hardware approaches to key provisioning
+## Hardware approaches to key provisioning
 
 Microchip ATECC608A
 
@@ -49,3 +49,10 @@ Renaud Lifchitz
 
 Formal security analysis of LoRaWAN
 https://www.sciencedirect.com/science/article/abs/pii/S1389128618306145
+
+
+## The Things Network - specific
+
+APIs - show all gateways, by country - 
+
+https://www.thethingsnetwork.org/gateway-data/country/dk

@@ -1,7 +1,7 @@
 
 # Vendor specific
 
-[Kerlink](../blob/master/kerlink.md)
+[Kerlink](kerlink.md)
 
 
 # LoRaWAN_security

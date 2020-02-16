@@ -16,3 +16,7 @@ CVE-2013-4434	Medium
 CVE-2008-5161	Low
 ```
 ==> use API to find all Kerlinks and scan ...
+
+Add:
+
+Newest FW 3.6 still ships with dropbear 2016.63 !!!!

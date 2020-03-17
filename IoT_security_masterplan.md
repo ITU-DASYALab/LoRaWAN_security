@@ -1,15 +1,16 @@
-Idea:
+# Idea
 
-group vulnerabilities / attacks by
+group all vulnerabilities / attacks by
 
-horizontal: 4-tier view -   
-
+```
+horizontal: 4-tier view   
 device  |   gateway  |   netwserver  |   app/data servers  (terms might differ, but quite universal)
 
 vertical: 
-
 type/class of attack  - physical, user/governance, crypto .... (not a stringent system, but good enough)
+```
 
+# Overview
 
 |               |   Device     |   Gateway    |  Netw Server | App/data Server    |
 |:------------- |:-------------|:-------------|:-------------|:-------------|

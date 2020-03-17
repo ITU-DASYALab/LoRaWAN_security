@@ -33,6 +33,12 @@ and media fallout:
 https://www.zdnet.com/article/lorawan-networks-are-spreading-but-security-researchers-say-beware/
 https://businessinsights.bitdefender.com/the-protocol-thats-putting-enterprise-iot-at-extreme-risk
 
+## keys, crypto, join
+
+https://runkit.com/avbentem/deciphering-a-lorawan-otaa-join-accept
+
+https://smartmakers.io/security-in-lorawan-applications/
+
 
 ## Power depletion attacks
 

@@ -31,8 +31,17 @@ For each attack, we could discuss possible outcomes, risk
 | physical               | theft    | theft     |    |   | 
 | physical               | jamming    | jamming     |    |   | 
 | protocol               | energy depletion     |      |    |   | 
-| user/governance | default password    | default password   |    |  |
+| user/governance | Default or Weak Credentials     | default password   |    |  |
 | user/governance | key provision    |   |   | key provision |
 | protocol                | weak crypto     |     | weak crypto    |   | 
 | OS/FW              |    | FW old     |    |   |
+| protocol               | Reverse Engineering Devices     |      |    |   |
+| protocol               | Replay     |      |    |   |
+| protocol               | Device spoofing     |      |    |   |
+| protocol               | stupid keys     |      |    |   |
+| protocol               | Reverse Engineering Devices     |      |    |   |
+| protocol               | Offline Key Cracking     |      |    |   |
+
+
+
 

@@ -30,9 +30,9 @@ For each attack, we could discuss possible outcomes, risk
 |:------------- |:-------------|:-------------|:-------------|:-------------|
 | physical               | theft    | theft     |    |   | 
 | physical               | jamming    | jamming     |    |   | 
-| LoRaWAN protocol               | energy depletion     |      |    |   | 
+| protocol               | energy depletion     |      |    |   | 
 | user/governance | default password    | default password   |    |  |
 | user/governance | key provision    |   |   | key provision |
-| cryptography               | weak crypto     |     | weak crypto    |   | 
+| protocol                | weak crypto     |     | weak crypto    |   | 
 | OS/FW              |    | FW old     |    |   |
 

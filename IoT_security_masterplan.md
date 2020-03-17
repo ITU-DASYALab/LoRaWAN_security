@@ -17,10 +17,11 @@ type/class of attack  - physical, user/governance, crypto .... (not a stringent 
 
 |               |   Device     |   Gateway    |  Netw Server | App/data Server    |
 |:------------- |:-------------|:-------------|:-------------|:-------------|
-| physical               | theft    | theft     | ...    |   | 
-| physical               | jamming    | jamming     | ...    |   | 
-| user/governance | default password    | default password   | ...   | .... |
-| user/governance | key provision    | default password   | ...   | key provision |
-| cryptography               | weak crypto     | ...     | weak crypto    |   | 
-| OS/FW              | ..    | FW old     | ...    |   |
+| physical               | theft    | theft     |    |   | 
+| physical               | jamming    | jamming     |    |   | 
+| LoRaWAN protocol               | energy depletion     |      |    |   | 
+| user/governance | default password    | default password   |    |  |
+| user/governance | key provision    |   |   | key provision |
+| cryptography               | weak crypto     |     | weak crypto    |   | 
+| OS/FW              |    | FW old     |    |   |
 

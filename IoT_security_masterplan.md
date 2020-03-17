@@ -12,6 +12,9 @@ type/class of attack  - physical, user/governance, crypto .... (not a stringent 
 
 # Overview
 
+![LoRaWAN overview](https://github.com/ITU-PITLab/LoRaWAN_security/blob/master/LoRaWAN-Overview.png "LoRaWAN overview")
+
+
 |               |   Device     |   Gateway    |  Netw Server | App/data Server    |
 |:------------- |:-------------|:-------------|:-------------|:-------------|
 | physical               | theft    | theft     | ...    |   | 

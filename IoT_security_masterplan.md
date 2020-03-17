@@ -11,7 +11,7 @@ vertical:
 type/class of attack  - physical, user/governance, crypto .... (not a stringent system, but good enough)
 
 
-|                 | Device | Gateway | Netw Server | App/data Server |
+|                 |   Device    |   Gateway    |   Netw Server    |   App/data Server    |
 |                 | :---          |     :---      |        :---  |       :---  |
 | physical               | theft    | theft     | ...    |   | 
 | physical               | jamming    | jamming     | ...    |   | 

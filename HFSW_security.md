@@ -15,10 +15,6 @@ In what follows, we describe the potential vulnerabilities and attack vectors of
 and
 a modified OSI model (with People & Organisation added as a top layer).
 
-
-![LoRaWAN overview](https://github.com/ITU-PITLab/LoRaWAN_security/blob/master/LoRaWAN-Overview.png "LoRaWAN overview")
-
-
 ![LoRaWAN overview](https://github.com/ITU-PITLab/LoRaWAN_security/blob/master/LoRaWAN-Overview.png "LoRaWAN overview")
 
 
